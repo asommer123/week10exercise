@@ -10,7 +10,7 @@ public class Child implements Runnable {
     private String name;
     private Date inTime;
 
-    RileyHouse rileyHouse;
+    private RileyHouse rileyHouse;
 
     public Child(RileyHouse rileyHouse)
     {
@@ -35,9 +35,9 @@ public class Child implements Runnable {
 
     public void run()
     {
-        goForHairCut();
+        trickOrTreatHouse();
     }
-    private synchronized void goForHairCut()
+    private synchronized void trickOrTreatHouse()
     {
         rileyHouse.add(this);
     }

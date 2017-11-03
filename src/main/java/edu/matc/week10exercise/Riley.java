@@ -16,7 +16,7 @@ public class Riley implements Runnable {
         log.info("Trick-Or-Treating begins");
         while(true)
         {
-            rileyHouse.cutHair();
+            rileyHouse.handOutCandy();
         }
     }
 }

@@ -13,19 +13,19 @@ import java.util.concurrent.TimeUnit;
 public class RileyHouse {
     private final Logger log = Logger.getLogger(this.getClass());
 
-    private int numberChildren;
+    private int maxNumberChildren;
     private List<Child> childList;
 
     public RileyHouse()
     {
-        numberChildren = 10;
+        maxNumberChildren = 10;
         childList = new LinkedList<Child>();
     }
 
-    public void cutHair()
+    public void handOutCandy()
     {
-        Child customer;
-        log.info("Barber waiting for lock.");
+        Child child;
+
         synchronized (childList)
         {
 
@@ -41,40 +41,37 @@ public class RileyHouse {
                     log.error("Interrupted Exception encountered", iex);
                 }
             }
-            System.out.println("Barber found a customer in the queue.");
-            customer = (Child)((LinkedList<?>) childList).poll();
+            log.info("Riley answers the door");
+            child = (Child)((LinkedList<?>) childList).poll();
         }
-        long duration=0;
+
         try
         {
-            System.out.println("Cuting hair of Customer : " + customer.getName());
-            duration = (long)(Math.random()*10);
-            TimeUnit.SECONDS.sleep(duration);
+            log.info("Riley gives candy to " + child.getName());
+            TimeUnit.SECONDS.sleep(3);
         }
         catch(InterruptedException iex)
         {
-            iex.printStackTrace();
+            log.error("Interrupted Exception encountered", iex);
         }
-        System.out.println("Completed Cuting hair of Customer : "+customer.getName() + " in "+duration+ " seconds.");
     }
 
-    public void add(Child customer)
+    public void add(Child child)
     {
-        System.out.println("Customer : "+customer.getName()+ " entering the shop at "+customer.getInTime());
+        log.info(child.getName() + " is created");
 
         synchronized (childList)
         {
-            if(childList.size() == numberChildren)
+            if(childList.size() == maxNumberChildren)
             {
-                System.out.println("No chair available for customer "+customer.getName());
-                System.out.println("Customer "+customer.getName()+"Exists...");
+                log.info("Too many kids at house waiting for candy. " + child.getName() + " is bypassing house.");
                 return ;
             }
 
-            ((LinkedList<Child>) childList).offer(customer);
-            System.out.println("Customer : "+customer.getName()+ " got the chair.");
+            ((LinkedList<Child>) childList).offer(child);
+            log.info(child.getName() + " rings the doorbell");
 
-            if(childList.size()==1)
+            if(childList.size() == 1)
                 childList.notify();
         }
     }
