@@ -9,14 +9,10 @@ public class week10exercise {
         Riley riley = new Riley(rileyHouse);
         ChildGenerator childGenerator = new ChildGenerator(rileyHouse);
 
-        Thread thbarber = new Thread(riley);
-        Thread thcg = new Thread(childGenerator);
-        thcg.start();
-        thbarber.start();
+        Thread threadRiley = new Thread(riley);
+        Thread threadChild = new Thread(childGenerator);
+        threadChild.start();
+        threadRiley.start();
     }
 
-    //Barber = Riley
-    //Customer = Child
-    //CustomerGenerator = ChildGenerator
-    //Bshop = RileyHouse
 }

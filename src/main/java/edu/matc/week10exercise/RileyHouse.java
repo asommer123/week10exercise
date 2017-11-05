@@ -6,10 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-//Barber = Riley
-//Customer = Child
-//CustomerGenerator = ChildGenerator
-//Bshop = RileyHouse
+
 public class RileyHouse {
     private final Logger log = Logger.getLogger(this.getClass());
 
