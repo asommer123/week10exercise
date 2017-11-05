@@ -30,11 +30,11 @@
 
 # IntelliJ
 /out/
-/logs/
+#/logs/
 
 # Maven
 /target/
-#/log/
+/log/
 /lib/
 
 # mpeltonen/sbt-idea plugin

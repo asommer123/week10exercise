@@ -1,0 +1,10 @@
+2017-11-04 20:32:09,679 0    [main] INFO  edu.matc.week10exercise.RileyHouse  - Test Child 1 is created
+2017-11-04 20:32:09,699 20   [main] INFO  edu.matc.week10exercise.RileyHouse  - Test Child 1 rings the doorbell
+2017-11-04 20:39:36,471 0    [main] INFO  edu.matc.week10exercise.ThreadTest  - ThreadTest - Before starting child thread
+2017-11-04 20:39:36,504 33   [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - ThreadTest Child 9 is created
+2017-11-04 20:39:36,505 34   [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - ThreadTest Child 9 rings the doorbell
+2017-11-04 20:42:29,518 0    [main] INFO  edu.matc.week10exercise.ThreadTest  - ThreadTest - Before starting riely thread
+2017-11-04 20:42:29,542 24   [Thread-0] INFO  edu.matc.week10exercise.Riley  - Trick-Or-Treating begins
+2017-11-04 20:42:29,542 24   [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 20:42:48,133 0    [main] INFO  edu.matc.week10exercise.RileyHouse  - Test Child 1 is created
+2017-11-04 20:42:48,135 2    [main] INFO  edu.matc.week10exercise.RileyHouse  - Test Child 1 rings the doorbell

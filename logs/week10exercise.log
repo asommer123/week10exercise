@@ -1,0 +1,144 @@
+2017-11-04 21:21:59,399 0    [Thread-0] INFO  edu.matc.week10exercise.Riley  - Trick-Or-Treating begins
+2017-11-04 21:21:59,406 7    [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:21:59,403 4    [Thread-2] INFO  edu.matc.week10exercise.RileyHouse  - Child 12 is created
+2017-11-04 21:21:59,406 7    [Thread-2] INFO  edu.matc.week10exercise.RileyHouse  - Child 12 rings the doorbell
+2017-11-04 21:21:59,407 8    [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:21:59,407 8    [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 12
+2017-11-04 21:22:02,407 3008 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:05,406 6007 [Thread-3] INFO  edu.matc.week10exercise.RileyHouse  - Child 13 is created
+2017-11-04 21:22:05,407 6008 [Thread-3] INFO  edu.matc.week10exercise.RileyHouse  - Child 13 rings the doorbell
+2017-11-04 21:22:05,407 6008 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:05,407 6008 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 13
+2017-11-04 21:22:08,407 9008 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:13,405 14006 [Thread-4] INFO  edu.matc.week10exercise.RileyHouse  - Child 14 is created
+2017-11-04 21:22:13,406 14007 [Thread-4] INFO  edu.matc.week10exercise.RileyHouse  - Child 14 rings the doorbell
+2017-11-04 21:22:13,406 14007 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:13,406 14007 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 14
+2017-11-04 21:22:16,407 17008 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:21,406 22007 [Thread-5] INFO  edu.matc.week10exercise.RileyHouse  - Child 15 is created
+2017-11-04 21:22:21,407 22008 [Thread-5] INFO  edu.matc.week10exercise.RileyHouse  - Child 15 rings the doorbell
+2017-11-04 21:22:21,409 22010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:21,409 22010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 15
+2017-11-04 21:22:23,407 24008 [Thread-6] INFO  edu.matc.week10exercise.RileyHouse  - Child 16 is created
+2017-11-04 21:22:23,409 24010 [Thread-6] INFO  edu.matc.week10exercise.RileyHouse  - Child 16 rings the doorbell
+2017-11-04 21:22:24,410 25011 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:24,411 25012 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 16
+2017-11-04 21:22:27,412 28013 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:31,408 32009 [Thread-7] INFO  edu.matc.week10exercise.RileyHouse  - Child 17 is created
+2017-11-04 21:22:31,408 32009 [Thread-7] INFO  edu.matc.week10exercise.RileyHouse  - Child 17 rings the doorbell
+2017-11-04 21:22:31,409 32010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:31,409 32010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 17
+2017-11-04 21:22:34,409 35010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:39,408 40009 [Thread-8] INFO  edu.matc.week10exercise.RileyHouse  - Child 18 is created
+2017-11-04 21:22:39,409 40010 [Thread-8] INFO  edu.matc.week10exercise.RileyHouse  - Child 18 rings the doorbell
+2017-11-04 21:22:39,409 40010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:39,409 40010 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 18
+2017-11-04 21:22:42,410 43011 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:42,413 43014 [Thread-10] INFO  edu.matc.week10exercise.RileyHouse  - Child 20 is created
+2017-11-04 21:22:42,436 43037 [Thread-10] INFO  edu.matc.week10exercise.RileyHouse  - Child 20 rings the doorbell
+2017-11-04 21:22:42,437 43038 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:42,437 43038 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 20
+2017-11-04 21:22:42,413 43014 [Thread-9] INFO  edu.matc.week10exercise.RileyHouse  - Child 19 is created
+2017-11-04 21:22:42,438 43039 [Thread-9] INFO  edu.matc.week10exercise.RileyHouse  - Child 19 rings the doorbell
+2017-11-04 21:22:45,438 46039 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:45,438 46039 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 19
+2017-11-04 21:22:46,414 47015 [Thread-11] INFO  edu.matc.week10exercise.RileyHouse  - Child 21 is created
+2017-11-04 21:22:46,415 47016 [Thread-11] INFO  edu.matc.week10exercise.RileyHouse  - Child 21 rings the doorbell
+2017-11-04 21:22:48,464 49065 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:48,464 49065 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 21
+2017-11-04 21:22:51,465 52066 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:22:53,440 54041 [Thread-12] INFO  edu.matc.week10exercise.RileyHouse  - Child 22 is created
+2017-11-04 21:22:53,466 54067 [Thread-12] INFO  edu.matc.week10exercise.RileyHouse  - Child 22 rings the doorbell
+2017-11-04 21:22:53,466 54067 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:53,466 54067 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 22
+2017-11-04 21:22:56,441 57042 [Thread-13] INFO  edu.matc.week10exercise.RileyHouse  - Child 23 is created
+2017-11-04 21:22:56,442 57043 [Thread-13] INFO  edu.matc.week10exercise.RileyHouse  - Child 23 rings the doorbell
+2017-11-04 21:22:56,467 57068 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:22:56,467 57068 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 23
+2017-11-04 21:22:59,468 60069 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:04,442 65043 [Thread-14] INFO  edu.matc.week10exercise.RileyHouse  - Child 24 is created
+2017-11-04 21:23:04,444 65045 [Thread-14] INFO  edu.matc.week10exercise.RileyHouse  - Child 24 rings the doorbell
+2017-11-04 21:23:04,445 65046 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:04,445 65046 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 24
+2017-11-04 21:23:07,446 68047 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:12,448 73049 [Thread-15] INFO  edu.matc.week10exercise.RileyHouse  - Child 25 is created
+2017-11-04 21:23:12,474 73075 [Thread-15] INFO  edu.matc.week10exercise.RileyHouse  - Child 25 rings the doorbell
+2017-11-04 21:23:12,474 73075 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:12,474 73075 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 25
+2017-11-04 21:23:15,475 76076 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:18,445 79046 [Thread-16] INFO  edu.matc.week10exercise.RileyHouse  - Child 26 is created
+2017-11-04 21:23:18,448 79049 [Thread-16] INFO  edu.matc.week10exercise.RileyHouse  - Child 26 rings the doorbell
+2017-11-04 21:23:18,448 79049 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:18,448 79049 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 26
+2017-11-04 21:23:19,445 80046 [Thread-17] INFO  edu.matc.week10exercise.RileyHouse  - Child 27 is created
+2017-11-04 21:23:19,446 80047 [Thread-17] INFO  edu.matc.week10exercise.RileyHouse  - Child 27 rings the doorbell
+2017-11-04 21:23:21,449 82050 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:21,449 82050 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 27
+2017-11-04 21:23:22,446 83047 [Thread-18] INFO  edu.matc.week10exercise.RileyHouse  - Child 28 is created
+2017-11-04 21:23:22,447 83048 [Thread-18] INFO  edu.matc.week10exercise.RileyHouse  - Child 28 rings the doorbell
+2017-11-04 21:23:24,449 85050 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:24,450 85051 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 28
+2017-11-04 21:23:25,447 86048 [Thread-19] INFO  edu.matc.week10exercise.RileyHouse  - Child 29 is created
+2017-11-04 21:23:25,449 86050 [Thread-19] INFO  edu.matc.week10exercise.RileyHouse  - Child 29 rings the doorbell
+2017-11-04 21:23:27,450 88051 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:27,451 88052 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 29
+2017-11-04 21:23:30,448 91049 [Thread-20] INFO  edu.matc.week10exercise.RileyHouse  - Child 30 is created
+2017-11-04 21:23:30,452 91053 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:30,453 91054 [Thread-20] INFO  edu.matc.week10exercise.RileyHouse  - Child 30 rings the doorbell
+2017-11-04 21:23:30,453 91054 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:30,453 91054 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 30
+2017-11-04 21:23:32,448 93049 [Thread-21] INFO  edu.matc.week10exercise.RileyHouse  - Child 31 is created
+2017-11-04 21:23:32,450 93051 [Thread-21] INFO  edu.matc.week10exercise.RileyHouse  - Child 31 rings the doorbell
+2017-11-04 21:23:33,454 94055 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:33,454 94055 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 31
+2017-11-04 21:23:36,455 97056 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:37,452 98053 [Thread-22] INFO  edu.matc.week10exercise.RileyHouse  - Child 32 is created
+2017-11-04 21:23:37,453 98054 [Thread-22] INFO  edu.matc.week10exercise.RileyHouse  - Child 32 rings the doorbell
+2017-11-04 21:23:37,453 98054 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:37,453 98054 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 32
+2017-11-04 21:23:40,454 101055 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:43,450 104051 [Thread-23] INFO  edu.matc.week10exercise.RileyHouse  - Child 33 is created
+2017-11-04 21:23:43,450 104051 [Thread-23] INFO  edu.matc.week10exercise.RileyHouse  - Child 33 rings the doorbell
+2017-11-04 21:23:43,450 104051 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:43,450 104051 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 33
+2017-11-04 21:23:46,451 107052 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:52,376 112977 [Thread-24] INFO  edu.matc.week10exercise.RileyHouse  - Child 34 is created
+2017-11-04 21:23:52,377 112978 [Thread-24] INFO  edu.matc.week10exercise.RileyHouse  - Child 34 rings the doorbell
+2017-11-04 21:23:52,377 112978 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:52,377 112978 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 34
+2017-11-04 21:23:55,378 115979 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:23:59,377 119978 [Thread-25] INFO  edu.matc.week10exercise.RileyHouse  - Child 35 is created
+2017-11-04 21:23:59,381 119982 [Thread-25] INFO  edu.matc.week10exercise.RileyHouse  - Child 35 rings the doorbell
+2017-11-04 21:23:59,381 119982 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:23:59,382 119983 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 35
+2017-11-04 21:23:59,382 119983 [Thread-26] INFO  edu.matc.week10exercise.RileyHouse  - Child 36 is created
+2017-11-04 21:23:59,382 119983 [Thread-26] INFO  edu.matc.week10exercise.RileyHouse  - Child 36 rings the doorbell
+2017-11-04 21:24:02,382 122983 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:02,383 122984 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 36
+2017-11-04 21:24:05,379 125980 [Thread-27] INFO  edu.matc.week10exercise.RileyHouse  - Child 37 is created
+2017-11-04 21:24:05,379 125980 [Thread-27] INFO  edu.matc.week10exercise.RileyHouse  - Child 37 rings the doorbell
+2017-11-04 21:24:05,383 125984 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:05,383 125984 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 37
+2017-11-04 21:24:08,384 128985 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley watches TV
+2017-11-04 21:24:10,385 130986 [Thread-28] INFO  edu.matc.week10exercise.RileyHouse  - Child 38 is created
+2017-11-04 21:24:10,389 130990 [Thread-28] INFO  edu.matc.week10exercise.RileyHouse  - Child 38 rings the doorbell
+2017-11-04 21:24:10,389 130990 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:10,389 130990 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 38
+2017-11-04 21:24:13,381 133982 [Thread-29] INFO  edu.matc.week10exercise.RileyHouse  - Child 39 is created
+2017-11-04 21:24:13,384 133985 [Thread-29] INFO  edu.matc.week10exercise.RileyHouse  - Child 39 rings the doorbell
+2017-11-04 21:24:13,413 134014 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:13,413 134014 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 39
+2017-11-04 21:24:14,384 134985 [Thread-30] INFO  edu.matc.week10exercise.RileyHouse  - Child 40 is created
+2017-11-04 21:24:14,387 134988 [Thread-30] INFO  edu.matc.week10exercise.RileyHouse  - Child 40 rings the doorbell
+2017-11-04 21:24:14,388 134989 [Thread-31] INFO  edu.matc.week10exercise.RileyHouse  - Child 41 is created
+2017-11-04 21:24:14,389 134990 [Thread-31] INFO  edu.matc.week10exercise.RileyHouse  - Child 41 rings the doorbell
+2017-11-04 21:24:15,389 135990 [Thread-32] INFO  edu.matc.week10exercise.RileyHouse  - Child 42 is created
+2017-11-04 21:24:15,390 135991 [Thread-32] INFO  edu.matc.week10exercise.RileyHouse  - Child 42 rings the doorbell
+2017-11-04 21:24:16,419 137020 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:16,420 137021 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 40
+2017-11-04 21:24:19,423 140024 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:19,423 140024 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 41
+2017-11-04 21:24:22,390 142991 [Thread-33] INFO  edu.matc.week10exercise.RileyHouse  - Child 43 is created
+2017-11-04 21:24:22,391 142992 [Thread-33] INFO  edu.matc.week10exercise.RileyHouse  - Child 43 rings the doorbell
+2017-11-04 21:24:22,423 143024 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley answers the door
+2017-11-04 21:24:22,423 143024 [Thread-0] INFO  edu.matc.week10exercise.RileyHouse  - Riley gives candy to Child 42
